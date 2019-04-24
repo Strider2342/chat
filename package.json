@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "chat",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strider2342/chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "strider2342",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strider2342/chat/issues"
+  },
+  "homepage": "https://github.com/Strider2342/chat#readme"
+}
